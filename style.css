@@ -1,3 +1,7 @@
 .container {
     background-color: gray;
 }
+
+.h-50 {
+    height: 50px;
+}
